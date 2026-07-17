@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://letsmoveonyoga.com/sitemap.xml
